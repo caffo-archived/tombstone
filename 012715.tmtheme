@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+        <key>comment</key>
+        <string>tombstone</string>
+        <key>name</key>
+        <string>tombstone</string>
+        <key>semanticClass</key>
+        <string>theme.light.tombstone.vim</string>
+        <key>settings</key>
+        <array>
+            <dict>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#191919</string>
+                    <key>caret</key>
+                    <string>#ccc</string>
+                    <key>foreground</key>
+                    <string>#b2b2b3</string>
+                    <key>invisibles</key>
+                    <string>#2e2e2e</string>
+                    <key>lineHighlight</key>
+                    <string>#101010</string>
+                    <key>selection</key>
+                    <string>#292929</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Comment</string>
+                <key>scope</key>
+                <string>comment</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#6c6c6c</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Foreground</string>
+                <key>scope</key>
+                <string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string />
+                    <key>foreground</key>
+                    <string>#b6b6b6</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Class, Support</string>
+                <key>scope</key>
+                <string>entity.name.class, entity.name.type.class, support.type, support.class</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string>italic</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Separator</string>
+                <key>scope</key>
+                <string>meta.separator</string>
+                <key>settings</key>
+                <dict>
+                    <key>background</key>
+                    <string>#1c1c1c</string>
+                    <key>foreground</key>
+                    <string>#b6b6b6</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>Number</string>
+                <key>scope</key>
+                <string>constant.numeric</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#cccccc</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>variable</string>
+                <key>scope</key>
+                <string>variable.parameter, variable.other, constant.language, support.constant.core</string>
+                <key>settings</key>
+                <dict>
+                    <key>fontStyle</key>
+                    <string>bold</string>
+                    <key>foreground</key>
+                    <string>#cfcfcf</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>SublimeLinter Error</string>
+                <key>scope</key>
+                <string>sublimelinter.mark.error</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555555</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>SublimeLinter Warning</string>
+                <key>scope</key>
+                <string>sublimelinter.mark.warning</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#555555</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>name</key>
+                <string>SublimeLinter Gutter Mark</string>
+                <key>scope</key>
+                <string>sublimelinter.gutter-mark</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#FFFFFF</string>
+                </dict>
+            </dict>
+            <dict>
+            <key>name</key>
+            <string>User-defined constant</string>
+            <key>scope</key>
+            <string>constant.character, constant.other, support.constant</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string />
+                <key>foreground</key>
+                <string>#cfcfcf</string>
+            </dict>
+        </dict>
+        </array>
+        <key>uuid</key>
+        <string>82CCD69C-F1B1-4529-B29E-780F91F07614</string>
+        <key>tombstone</key>
+        <string>sRGB</string>
+        <key>author</key>
+        <string>Rodrigo Franco</string>
+    </dict>
+</plist>
