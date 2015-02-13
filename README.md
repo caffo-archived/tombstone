@@ -1,5 +1,5 @@
 # tombstone
-experiments with minimal syntax highlight
+experiments with minimal, monocromatic syntax highlight.
 
 
 ## variables
